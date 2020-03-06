@@ -1,13 +1,13 @@
 .footer {
-  background-color: $gray-800;
-  color: $gray-300;
+  background-color: #0069A7;
+  color: #fff;
   padding: 10px 0 10px 0;
   overflow: hidden;
 }
 
 // Copyright line
 .copyright {
-  text-align: left;  
+  text-align: center;  
 }
 // Small devices
 @media screen and (min-width:0px) and (max-width:640px) {
@@ -20,7 +20,7 @@
 }
 
 .footer a { 
-  color: $gray-700; 
+  color: #ccc; 
 }
 
 .footer p {
